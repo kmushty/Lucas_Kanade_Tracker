@@ -17,6 +17,15 @@ The outputs for each video are:
 The report containing the details of the outputs and the plots is [here](https://github.com/kmushty/Lucas_Kanade_Tracker/blob/main/Report.pdf) 
 
 
+## Output 
+
+<img src="outputs/LKtracker1.png" width="640" height="480">
+
+<img src="outputs/LKtracker2.png" width="640" height="480">
+
+<img src="outputs/LKtracker3.png" width="640" height="480">
+
+
 ## Dependencies
 
 The following are the project dependencies:
