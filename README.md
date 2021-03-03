@@ -32,8 +32,8 @@ In order to implement the code:
 
 ## Output 
 
-<img src="LKtracker1.png" width="640" height="480">
+<img src="outputs/LKtracker1.png" width="640" height="480">
 
-<img src="LKtracker2.png" width="640" height="480">
+<img src="outputs/LKtracker2.png" width="640" height="480">
 
-<img src="LKtracker3.png" width="640" height="480">
+<img src="outputs/LKtracker3.png" width="640" height="480">
